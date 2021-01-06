@@ -1,0 +1,59 @@
+.facebook{
+    width: 120px;
+    height: 25px;
+    background-color: #1877f2;
+    color: white;
+    font-family: "Helvetica", "Arial", "sans-serif";
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    line-height: 0;
+    margin-right: 15px;
+}
+
+.twitter{
+    width: 120px;
+    height: 25px;
+    background-color: #1b95e0;
+    color: white;
+    font-family: "Helvetica", "Arial", "sans-serif";
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    line-height: 0;
+    margin-right: 15px;
+}
+
+.linkedin{
+    width: 120px;
+    height: 25px;
+    background-color: #2867B2;
+    color: white;
+    font-family: "Helvetica", "Arial", "sans-serif";
+    font-weight: bold;
+    padding: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    line-height: 0;
+    margin-right: 15px;
+}
+    
+.icon, .text{
+    vertical-align: middle;
+    display: inline-block;
+}
+
+.icon{
+    line-height: 17.5px;
+} 
+
+.text{
+    margin-left: 5px;
+    font-size: 1.4em;
+}
+a, a:hover, a:focus, a:active {
+    text-decoration: none;
+    color: inherit;
+}
